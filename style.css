@@ -1,0 +1,79 @@
+@import url(https://fonts.google.com/specimen/Knewave);
+* {
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+:root{
+    -primary-color: #DD6106;
+    -secundary-color: #1e1e1e;
+    -light-color:#fff;
+    -dark-color: #000;
+
+}   
+body{
+   font-family: sans-serif 
+} 
+   a{
+    text-decoration: none;
+   } 
+.flex center{
+    display: flex;
+    justify-content: center;
+}
+.wrapper{
+    widht
+}
+body{
+
+}
+.content-info {
+    width: 100vw;
+    height: 60
+    align-item: center;
+    flex-direction: column;
+
+}
+.content-info_subtitle {
+    front-size: clamp
+}
+.button {
+    font-size: 1.2em;
+padding: 10px, 3em;
+border: none;
+border-radius: 50px;
+background-color: var(-primary-color);
+
+
+.wrapper-blog {
+    background-image: url(../img/blog.png);
+    background-size: cover
+}
+.blog-content {
+    width: 100dvw;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: var(-light-color)
+    padding-botton: 5em;
+
+}
+.blog-content-info {
+    padding: 5em;
+
+}
+.blog-content-title {
+    font-size: clamp(2em, 5vw, 3em);
+
+}
+.divider {
+    width: calc(5vw, 2em, 3em);
+    height: 3px;
+    background-color: var(-primary-color);
+    margin-top: 1em;
+}
+.card_info {
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
